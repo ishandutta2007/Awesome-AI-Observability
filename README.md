@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Observability"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Observability?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Observability"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Observability?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Observability/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Observability?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -50,9 +50,9 @@ The table below summarizes leading cloud-hosted AI observability platforms, sort
 
 ## 🔓 Open-Source AI Observability Projects
 
-Discover top open-source projects for self-hosted LLM tracing, evals, and prompt monitoring. Sorted by **GitHub Star Count** (descending):
+Discover top open-source projects for self-hosted LLM tracing, evals, and prompt monitoring. Sorted by **GitHub Stars_Count** (descending):
 
-| 📦 Repository & Link | ⭐ Star Count | 📜 License | 🔍 Highlights & Architecture |
+| 📦 Repository & Link | ⭐ Stars_Count | 📜 License | 🔍 Highlights & Architecture |
 | :--- | :--- | :--- | :--- |
 | **[Langfuse](https://github.com/langfuse/langfuse)** | [<img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white" alt="Langfuse Stars"/>](https://github.com/langfuse/langfuse/stargazers) | MIT | Full open-source LLM engineering platform for tracing, evals, prompt management, and analytics with self-hostable Docker stack. |
 | **[Opik](https://github.com/comet-ml/opik)** (Comet) | [<img src="https://img.shields.io/github/stars/comet-ml/opik?style=social&color=white" alt="Opik Stars"/>](https://github.com/comet-ml/opik/stargazers) | Apache-2.0 | Open-source LLM evaluation, test generation, and trace monitoring toolkit for production and CI/CD pipelines. |
